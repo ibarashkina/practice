@@ -70,3 +70,8 @@ grid-template-areas:
 "middle-side"
 }
 }
+
+
+nav:hover {
+    size: 1.2em;
+}
